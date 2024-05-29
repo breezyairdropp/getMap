@@ -1,0 +1,14 @@
+{
+	"name": "nodejs-online-compiler",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"license": "MIT",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"fs": "^0.0.1-security",
+		"puppeteer-cluster": "^0.24.0",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-stealth": "^2.11.2"
+	}
+}
